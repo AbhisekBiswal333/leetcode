@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbhisekBiswal333/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/AbhisekBiswal333/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AbhisekBiswal333/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0137-single-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
