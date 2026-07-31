@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbhisekBiswal333/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AbhisekBiswal333/leetcode/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/AbhisekBiswal333/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AbhisekBiswal333/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
