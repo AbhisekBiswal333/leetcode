@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbhisekBiswal333/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/AbhisekBiswal333/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbhisekBiswal333/leetcode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
