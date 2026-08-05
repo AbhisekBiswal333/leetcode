@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbhisekBiswal333/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AbhisekBiswal333/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbhisekBiswal333/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AbhisekBiswal333/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AbhisekBiswal333/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
