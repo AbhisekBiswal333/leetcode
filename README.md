@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhisekBiswal333/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbhisekBiswal333/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AbhisekBiswal333/leetcode/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhisekBiswal333/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AbhisekBiswal333/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AbhisekBiswal333/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
