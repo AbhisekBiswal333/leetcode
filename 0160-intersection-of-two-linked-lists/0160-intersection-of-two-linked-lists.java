@@ -14,7 +14,7 @@ public class Solution {
         
         ListNode q=headB;
         while(q!=null){
-ListNode p=headA;
+       ListNode p=headA;
         
         while(p!=null){
             if(p==q){
