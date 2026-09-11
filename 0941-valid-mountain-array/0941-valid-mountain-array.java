@@ -1,8 +1,8 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        if(arr.length<3){
-            return false;
-        }
+        // if(arr.length<3){
+        //     return false;
+        // }
         int n=arr.length;
         int start=0;
         int end=n-1;
