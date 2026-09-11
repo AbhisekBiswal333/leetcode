@@ -1,6 +1,9 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
         int n=arr.length;
+        if(n<3){
+            return false;
+        }
         int start=0;
         int end=n-1;
         while(start<end){
