@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbhisekBiswal333/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/AbhisekBiswal333/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AbhisekBiswal333/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AbhisekBiswal333/leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/AbhisekBiswal333/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhisekBiswal333/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AbhisekBiswal333/leetcode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbhisekBiswal333/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
