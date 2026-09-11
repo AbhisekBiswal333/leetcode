@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AbhisekBiswal333/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/AbhisekBiswal333/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhisekBiswal333/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbhisekBiswal333/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhisekBiswal333/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/AbhisekBiswal333/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AbhisekBiswal333/leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbhisekBiswal333/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/AbhisekBiswal333/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AbhisekBiswal333/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/AbhisekBiswal333/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhisekBiswal333/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
