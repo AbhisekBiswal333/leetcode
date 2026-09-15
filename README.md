@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbhisekBiswal333/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AbhisekBiswal333/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AbhisekBiswal333/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbhisekBiswal333/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhisekBiswal333/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AbhisekBiswal333/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AbhisekBiswal333/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AbhisekBiswal333/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/AbhisekBiswal333/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
