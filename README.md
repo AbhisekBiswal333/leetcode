@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbhisekBiswal333/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/AbhisekBiswal333/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AbhisekBiswal333/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/AbhisekBiswal333/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AbhisekBiswal333/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhisekBiswal333/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbhisekBiswal333/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/AbhisekBiswal333/leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/AbhisekBiswal333/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/AbhisekBiswal333/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhisekBiswal333/leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/AbhisekBiswal333/leetcode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/AbhisekBiswal333/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/AbhisekBiswal333/leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
