@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhisekBiswal333/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AbhisekBiswal333/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/AbhisekBiswal333/leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/AbhisekBiswal333/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/AbhisekBiswal333/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/0941-valid-mountain-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AbhisekBiswal333/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhisekBiswal333/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AbhisekBiswal333/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/AbhisekBiswal333/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AbhisekBiswal333/leetcode/tree/master/1051-height-checker) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AbhisekBiswal333/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
