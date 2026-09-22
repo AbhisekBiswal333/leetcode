@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhisekBiswal333/leetcode/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AbhisekBiswal333/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
