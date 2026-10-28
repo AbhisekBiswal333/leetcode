@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AbhisekBiswal333/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhisekBiswal333/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhisekBiswal333/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/AbhisekBiswal333/leetcode/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhisekBiswal333/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhisekBiswal333/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AbhisekBiswal333/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AbhisekBiswal333/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhisekBiswal333/leetcode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhisekBiswal333/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhisekBiswal333/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhisekBiswal333/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
