@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhisekBiswal333/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhisekBiswal333/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhisekBiswal333/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AbhisekBiswal333/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbhisekBiswal333/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhisekBiswal333/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbhisekBiswal333/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AbhisekBiswal333/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhisekBiswal333/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AbhisekBiswal333/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhisekBiswal333/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
